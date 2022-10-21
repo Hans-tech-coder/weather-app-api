@@ -4,6 +4,7 @@ cd myapp
 create repository
 
 npm init
+NOTE: will create package.json
 
 npm install express
 
