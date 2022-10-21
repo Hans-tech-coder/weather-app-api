@@ -6,9 +6,11 @@ create repository
 npm init
 NOTE: will create package.json
 
+add .gitignore 
+
 npm install express
 
-add .gitignore */
+*/
 
 const express = require('express')
 const app = express()
