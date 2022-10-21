@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hans-tech-coder/weather-app-api/issues"
   },
-  "homepage": "https://github.com/Hans-tech-coder/weather-app-api#readme"
+  "homepage": "https://github.com/Hans-tech-coder/weather-app-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
